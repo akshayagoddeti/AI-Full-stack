@@ -8,7 +8,7 @@ while True:
         messages=[
             {
                 "role": "system",
-                "content": "Give answers in 2 lines only."
+                "content": "Give answers in 2-3 lines only."
             },
             {
                 "role": "user",
